@@ -5,5 +5,5 @@
 # pnpm -v
 
 # pnpm install; pnpm build
-echo "test"
+
 npm install pnpm@8.6.1 && npx pnpm install --no-frozen-lockfile && npx pnpm build
